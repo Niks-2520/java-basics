@@ -28,33 +28,6 @@ for, while, do-while, patterns, number logic & key concepts.
 
 String manipulation — palindrome, reverse, cases, substring, frequency.
 
-🗂️ Folder Structure
-java-basics/
-│
-├── level-1-basics/
-│   ├── PrintName.java
-│   ├── AddTwoNumbers.java
-│   └── ...
-│
-├── level-2-if-else/
-│   ├── LeapYear.java
-│   ├── GradeCalculator.java
-│   └── ...
-│
-├── level-3-loops/
-│   ├── Factorial.java
-│   ├── Fibonacci.java
-│   └── ...
-│
-├── level-4-arrays/
-│   ├── SumOfArray.java
-│   ├── BubbleSort.java
-│   └── ...
-│
-└── level-5-strings/
-    ├── ReverseString.java
-    ├── PalindromeString.java
-    └── ...
 
 🌟 Why This Repo Is Special
 
